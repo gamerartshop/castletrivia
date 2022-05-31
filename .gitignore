@@ -1,9 +1,2 @@
-audio
-cache
-fonts
-gui
-images
-saves
-tl
 *.bak
 *.rpyc
